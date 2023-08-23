@@ -1,7 +1,8 @@
 # WindowsService_MachineLog
-Generates machine logs upon startup and shutdown, or when Windows_Service is explicitly started or stopped.
-Windows Service Will Run in Background after installation.
-Logs will be stored in .txt file with current date
+- Generate machine logs when the Machine Starts, Shutsdown, and at regular intervals of 30 minutes,
+- also When Windows_Service is  explicitly started or terminated.
+- Windows Service is programmatically scheduled to run in the Background after installation.
+- Logs will be stored in .txt file with current date.
 
 # Steps to Install Service on Machine
 //this is for X64 
