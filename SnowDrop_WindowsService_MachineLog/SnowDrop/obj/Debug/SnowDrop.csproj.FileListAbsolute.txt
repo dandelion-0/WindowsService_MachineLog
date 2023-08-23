@@ -1,0 +1,10 @@
+D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe.config
+D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.pdb
+D:\Projects\SnowDrop\SnowDrop\obj\Debug\SnowDrop.csproj.AssemblyReference.cache
+D:\Projects\SnowDrop\SnowDrop\obj\Debug\SnowDrop.csproj.SuggestedBindingRedirects.cache
+D:\Projects\SnowDrop\SnowDrop\obj\Debug\SnowDrop.ProjectInstaller.resources
+D:\Projects\SnowDrop\SnowDrop\obj\Debug\SnowDrop.csproj.GenerateResource.cache
+D:\Projects\SnowDrop\SnowDrop\obj\Debug\SnowDrop.csproj.CoreCompileInputs.cache
+D:\Projects\SnowDrop\SnowDrop\obj\Debug\SnowDrop.exe
+D:\Projects\SnowDrop\SnowDrop\obj\Debug\SnowDrop.pdb

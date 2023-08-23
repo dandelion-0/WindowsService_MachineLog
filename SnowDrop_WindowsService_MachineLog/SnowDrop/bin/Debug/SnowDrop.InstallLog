@@ -1,0 +1,105 @@
+﻿Installing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+Uninstalling assembly 'D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Uninstalling assembly 'D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Uninstalling assembly 'D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Uninstalling assembly 'D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Uninstalling assembly 'D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Git_MyOpenSource_Projects\SnowDrop\SnowDrop\bin\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.

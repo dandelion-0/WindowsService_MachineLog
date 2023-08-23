@@ -1,0 +1,276 @@
+﻿Installing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Uninstalling assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Uninstalling assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Uninstalling assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Uninstalling assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Uninstalling assembly 'D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\Projects\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Uninstalling assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Uninstalling assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Uninstalling assembly 'D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.exe
+   logfile = D:\ALL\M_Projects\Tinker_Projects\All_Projects_july_dec\SnowDrop\SnowDrop\bin\x64\Debug\SnowDrop.InstallLog
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
