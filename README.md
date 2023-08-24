@@ -56,3 +56,9 @@ Contributions are welcome! If you have any ideas or suggestions, please create a
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any questions or inquiries, please contact the project maintainer at [dandelion00@tutanota.com]
+
+Feel free to visit our project page on GitHub: [WindowsService_MAchineLog](https://github.com/dandelion-0/WindowsService_MachineLog/)
