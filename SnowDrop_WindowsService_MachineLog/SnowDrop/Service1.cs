@@ -23,8 +23,9 @@ namespace SnowDrop
         protected override void OnStart(string[] args)
         {
             WriteToFile("Service is started at " + DateTime.Now);
+            
             timer.Elapsed += new ElapsedEventHandler(OnElapsedTime);
-            timer.Interval = 30*60000; //number in milisecinds
+            timer.Interval = 30*60000; //30 minute
             timer.Enabled = true;
         }
 
@@ -39,7 +40,7 @@ namespace SnowDrop
         }
         private void OnElapsedTime(object source, ElapsedEventArgs e)
         {
-                WriteToFile("Service is recall at " + DateTime.Now);
+            WriteToFile("Service is recall at " + DateTime.Now);
         }
         public void WriteToFile(string Message)
         {
