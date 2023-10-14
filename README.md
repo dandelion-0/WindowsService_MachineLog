@@ -41,7 +41,7 @@ This project is a Windows service that generates machine logs when the machine s
 7. To uninstall the service, use the following command:
    
 
-   InstallUtil.exe -u <..\SnowDrop_WindowsService_MachineLog\SnowDrop\bin\x64\Debug\SnowDrop.exe>
+   InstallUtil.exe -u <..\SnowDrop_WindowsService_MachineLog\SnowDrop\bin\x64\Debug\SnowDrop.exe> 
 
    
    
